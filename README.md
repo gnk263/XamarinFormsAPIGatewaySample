@@ -1,0 +1,2 @@
+# XamarinFormsAPIGatewaySample
+Xamarin.FormsでAWSのAPIGatewayを叩いたサンプルです。
